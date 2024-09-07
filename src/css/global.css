@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+body {
+    font-family: "Poppins";
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+}
